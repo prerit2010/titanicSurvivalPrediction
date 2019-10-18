@@ -1,6 +1,6 @@
 # titanicSurvivalPrediction
 
-Given the details of the passengers of Titanic, we have to predict which passengers survived the Titanic shipwreck.
+Given the details of passengers of Titanic, we have to predict which passengers survived the Titanic shipwreck.
 
 Data Source : [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic/overview)
 

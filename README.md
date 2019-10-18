@@ -2,6 +2,10 @@
 
 Given the details of the passengers of Titanic, we have to predict which passengers survived the Titanic shipwreck.
 
+Data Source : [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic/overview)
+
+Credit for Some ideas and code : https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python
+
 ### Data
 
 | Variable | Definition | Key|
